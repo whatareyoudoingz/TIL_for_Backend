@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,macos
-
+firstpjt/settings.py
 ### Django ###
 *.log
 *.pot
