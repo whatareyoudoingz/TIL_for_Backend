@@ -14,3 +14,7 @@
 !보충공부 필요!
 ## **[Day5](records/0324.md)**  - 2023.03.24
 - Django model 생성
+## **[Day6](records/0328.md)**  - 2023.03.28
+- ORM
+## **[Day7](records/0329.md)**  - 2023.03.29
+- ORM with view
